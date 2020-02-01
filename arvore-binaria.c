@@ -1,3 +1,5 @@
+// O CÓDIGO PRESENTE ESTÁ INCOMPLETO, O CÓDIGO COMPLETO ESTÁ NO COMPILADO "exames.zip" PRESENTE NESTE MESMO REPOSITÓRIO.
+
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -35,7 +37,7 @@ void libera_ArvBin(ArvBin* raiz)
 	libera_NO(*raiz); // libera cada nó
 	free(raiz); // libera a raiz
 }
-void libera_NO (struct
+
 
 int main (int argc, char *argv[])
 {
